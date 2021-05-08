@@ -10,7 +10,7 @@ Django==2.1
 dnspython==1.16.0
 docutils==0.15.2
 et-xmlfile==1.0.1
-eventlet==0.25.2
+eventlet==0.31.0
 Flask==1.1.2
 get==2019.4.13
 greenlet==0.4.16
