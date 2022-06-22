@@ -22,7 +22,7 @@ jmespath==0.9.5
 joblib==0.14.1
 MarkupSafe==1.1.1
 monotonic==1.5
-numpy==1.18.4
+numpy==1.22.0
 openpyxl==3.0.3
 pandas==1.0.3
 Pillow==7.1.2
